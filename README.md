@@ -23,49 +23,43 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - **ChatGPT** (2022-11-03) 
 
 ### 2023
-- **Self-planning** (2023-03-12) 
-- **Self-refine** (2023-03-30) 
-- **Self-debug** (2023-04-11) 
-- **ToolCoder** (2023-05-06) 
-- **Self-edit** (2023-05-06) 
-- **Self-Repair** (2023-06-16) 
-- **L2MAC** (2023-10-02) 
-- **LATS** (2023-10-06) 
-- **CodeChain** (2023-10-13) 
-- **Self-Iteration** (2023-12-17) 
+- **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)]
+- **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)]
+- **Teaching Large Language Models to Self-Debug** (2023-04-11) [[Paper](https://arxiv.org/abs/2304.05128)]
+- **ToolCoder: Teach Code Generation Models to use API search tools** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04032)]
+- **Self-Edit: Fault-Aware Code Editor for Code Generation** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04087)]
+- **Is Self-Repair a Silver Bullet for Code Generation?** (2023-06-16) [[Paper](https://arxiv.org/abs/2306.09896)]
+- **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)]
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)]
+- **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)]
+- **A Self-Iteration Code Generation Method Based on Large Language Models** (2023-12-17) [[Paper](https://ieeexplore.ieee.org/abstract/document/10476069)]
 
 ### 2024
-- **CodeAgent** (2024-01-14) 
-- **KareCoder** (2024-01-29) 
-- **CodeAct** (2024-02-01) 
-- **CodePori** (2024-02-02) 
-- **CleanAgent** (2024-03-13) 
-- **FlowGen** (2024-03-23) 
-- **RepairAgent** (2024-03-25) 
-- **MAGIS** (2024-03-26) 
-- **SoA** (2024-04-02) 
-- **AutoCodeRover** (2024-04-08) 
-- **MARE** (2024-05-06) 
-- **SWE-agent** (2024-05-06) 
-- **MapCoder** (2024-05-18) 
-- **AnalogCoder** (2024-05-23) 
-- **GIF-MCTS** (2024-05-24) 
-- **LeDeX** (2024-05-28) 
-- **AgileCoder** (2024-06-16) 
-- **CodeNav** (2024-06-18) 
-- **Agentless** (2024-07-01)
-- **OpenHands** (2024-07-23) 
-- **VerilogCoder** (2024-08-15)
-- **PlanSearch** (2024-09-05)
-- **PairCoder** (2024-09-08) 
-- **HyperAgent** (2024-09-09)
-- **AutoSafeCoder** (2024-09-16) 
-- **EvoMAC** (2024-10-22) 
-- **SWE-Search** (2024-10-26)
-- **CodeTree** (2024-11-07) 
-- **ROCODE** (2024-11-11)
-- **MAGE** (2024-12-10) 
-- **Tree-of-Code** (2024-12-19)
+- **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** (2024-01-14) [[Paper](https://arxiv.org/abs/2401.07339)]
+- **Knowledge-Aware Code Generation with Large Language Models** (2024-01-29) [[Paper](https://arxiv.org/abs/2401.15940)]
+- **Executable Code Actions Elicit Better LLM Agents** (2024-02-01) [[Paper](https://arxiv.org/abs/2402.01030)]
+
+- **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair** (2024-03-25) [[Paper](https://arxiv.org/abs/2403.17134)]
+
+
+- **AnalogCoder: Analog Circuit Design via Training-Free Code Generation** (2024-05-23) [[Paper](https://arxiv.org/abs/2405.14918)]
+
+- **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search** (2024-05-24)[[Paper](https://arxiv.org/abs/2405.15383)] 
+
+- **LeDex: Training LLMs to Better Self-Debug and Explain Code** (2024-05-28) [[Paper](https://arxiv.org/abs/2405.18649)] 
+
+
+- **CodeNav: Beyond tool-use to using real-world codebases with LLM agents** (2024-06-18) [[Paper](https://arxiv.org/abs/2406.12276)] 
+
+
+- **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] 
+
+
+- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] 
+
+
+- **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] 
+
 
 ### 2025 (Up to June)
 - **CodeCoR** (2025-01-14) 
@@ -96,6 +90,48 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - **Lemur** (2023-10-10) 
 - **GameGPT** (2023-10-12) 
 - **AgentCoder** (2023-12-20) 
+
+### 2024
+
+- **CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology** (2024-02-02) [[Paper](https://arxiv.org/abs/2402.01411)]
+
+- **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)]
+
+- **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)]
+
+- **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)]
+
+- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)]
+
+- **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)]
+
+- **MARE: Multi-Agents Collaboration Framework for Requirements Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.03256)]
+
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.15793)]
+
+- **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving** (2024-05-18) [[Paper](https://arxiv.org/abs/2405.11403)]
+
+- **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology** (2024-06-16)  [[Paper](https://arxiv.org/abs/2406.11912)] 
+
+- **Agentless: Demystifying LLM-based Software Engineering Agents** (2024-07-01) [[Paper](https://arxiv.org/abs/2407.01489)] 
+
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** (2024-07-23) [[Paper](https://arxiv.org/abs/2407.16741)] 
+- **VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool** (2024-08-15) [[Paper](https://arxiv.org/abs/2408.08927)] 
+
+- **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** (2024-09-08) [[Paper](https://arxiv.org/abs/2409.05001)] 
+
+- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale** (2024-09-09)[[Paper](https://arxiv.org/abs/2409.16299)] 
+
+- **AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing** (2024-09-16) [[Paper](https://arxiv.org/abs/2409.10737)] 
+
+
+- **Self-Evolving Multi-Agent Collaboration Networks for Software Development** (2024-10-22) [[Paper](https://arxiv.org/html/2410.16946v1)] 
+
+- **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
+
+- **MAGE: A Multi-Agent Engine for Automated RTL Code Generation** (2024-12-10) [[Paper](https://arxiv.org/abs/2412.07822)] 
+
+- **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
 
 ## 🏆 Benchmarks
 
