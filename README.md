@@ -10,17 +10,17 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - [Single-Agent Methods](#single-agent-methods)
 - [Multi-Agent Methods](#multi-agent-methods)
 - [Benchmarks](#benchmarks)
-- [Tools & Frameworks](#tools--frameworks)
+- [Tools](#tools)
 
 
 
 
-## 🤖 Single-Agent Methods
+## 🤖 Single-Agent Methods 
 
 ### 2020
-- **GPT-3** (2020-05-28) 
+- **GPT-3** (2020-05-28) [[Paper](https://arxiv.org/abs/2005.14165)]
 ### 2022
-- **ChatGPT** (2022-11-03) 
+- **ChatGPT** (2022-11-03) [[Link](https://chatgpt.com/)]
 
 ### 2023
 - **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)]
@@ -29,8 +29,16 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - **ToolCoder: Teach Code Generation Models to use API search tools** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04032)]
 - **Self-Edit: Fault-Aware Code Editor for Code Generation** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04087)]
 - **Is Self-Repair a Silver Bullet for Code Generation?** (2023-06-16) [[Paper](https://arxiv.org/abs/2306.09896)]
+
+- **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** (2023-07-24) [[Paper](https://arxiv.org/abs/2307.12856)]
+
+- **CodePlan: Repository-level Coding using LLMs and Planning** (2023-09-21) [[Paper](https://arxiv.org/abs/2309.12499)]
+
 - **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)]
 - **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)]
+
+- **Lemur: Harmonizing Natural Language and Code for Language Agents** (2023-10-10) [[Paper](https://arxiv.org/abs/2310.06830)]
+
 - **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)]
 - **A Self-Iteration Code Generation Method Based on Large Language Models** (2023-12-17) [[Paper](https://ieeexplore.ieee.org/abstract/document/10476069)]
 
@@ -62,34 +70,34 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 
 ### 2025 (Up to June)
-- **CodeCoR** (2025-01-14) 
-- **QualityFlow** (2025-01-20)
-- **AUTOPATCH** (2025-01-28) 
-- **Cogito** (2025-01-30) 
-- **PatchPilot** (2025-02-04)
-- **CodeSim** (2025-02-08) 
-- **SyncMind** (2025-02-10) 
-- **AIDE** (2025-02-18) 
-- **DARS** (2025-03-18)
-- **CodeTool** (2025-03-26)
-- **CodeRAG** (2025-04-14) 
-- **MARCO** (2025-05-06) 
-- **AdverIntent-Agent** (2025-05-19) 
-- **Guided-Search** (2025-05-19)
-- **SEW** (2025-05-24)
-- **cAST** (2025-06-18)
+
+
+- **Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation** (2025-01-28) [[Paper](https://arxiv.org/abs/2501.16692)] 
+
+- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] 
+
+
+- **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] 
+- **DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal** (2025-03-18) [[Paper](https://arxiv.org/abs/2503.14269)] 
+- **CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision** (2025-03-26) [[Paper](https://arxiv.org/abs/2503.20840)] 
+- **CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation** (2025-04-14) [[Paper](https://arxiv.org/abs/2504.10046)] 
+
+
+- **Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13652)] 
+
+- **cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree** (2025-06-18)[[Paper](https://arxiv.org/abs/2506.15655)]  
 
 ## 👥 Multi-Agent Methods
 
 ### 2023
-- **Self-Collaboration** (2023-04-15) 
-- **ChatDev** (2023-07-16)
-- **WebAgent** (2023-07-24) 
-- **MetaGPT** (2023-08-01) 
-- **CodePlan** (2023-09-21) 
-- **Lemur** (2023-10-10) 
-- **GameGPT** (2023-10-12) 
-- **AgentCoder** (2023-12-20) 
+- **Self-collaboration Code Generation via ChatGPT** (2023-04-15) [[Paper](https://arxiv.org/abs/2304.07590)]  
+- **ChatDev: Communicative Agents for Software Development** (2023-07-16) [[Paper](https://arxiv.org/abs/2307.07924)]
+
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** (2023-08-01) [[Paper](https://arxiv.org/abs/2308.00352)]
+
+
+- **GameGPT: Multi-agent Collaborative Framework for Game Development** (2023-10-12) [[Paper](https://arxiv.org/abs/2310.08067)]
+- **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation** (2023-12-20) [[Paper](https://arxiv.org/abs/2312.13010)]
 
 ### 2024
 
@@ -133,36 +141,49 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 - **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
 
+
+### 2025
+
+- **CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation** (2025-01-14) [[Paper](https://arxiv.org/abs/2501.07811)] 
+
+- **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks** (2025-01-20) [[Paper](https://arxiv.org/abs/2501.17167)] 
+
+- **Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation** (2025-01-30) [[Paper](https://arxiv.org/abs/2501.18653)] 
+
+- **CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging** (2025-02-08) [[Paper](https://arxiv.org/abs/2502.05664)] 
+
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** (2025-02-10) [[Paper](https://arxiv.org/abs/2502.06994)] 
+
+- **MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing** (2025-05-06) [[Paper](https://arxiv.org/abs/2505.03906)] 
+
+- **Adversarial Reasoning for Repair Based on Inferred Program Intent** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13008)] 
+
+- **SEW: Self-Evolving Agentic Workflows for Automated Code Generation** (2025-05-24)[[Paper](https://arxiv.org/abs/2505.18646)] 
+
 ## 🏆 Benchmarks
 
-
-- **HumanEval** 
-- **MBPP** 
-- **APPS** 
-- **CodeXGLUE** 
-
-
-## 🛠️ Tools & Frameworks
-
-### Open Source Projects
-- [AutoGen](https://github.com/microsoft/autogen) 
-- [MetaGPT](https://github.com/geekan/MetaGPT)
-- [ChatDev](https://github.com/OpenBMB/ChatDev) 
-- [CodeT5+](https://github.com/salesforce/CodeT5) 
-- [WizardCoder](https://github.com/nlpxucan/WizardLM)
-### Commercial Tools
-- [GitHub Copilot](https://github.com/features/copilot) - AI-powered code completion
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - AI-powered code generator
-- [Tabnine](https://www.tabnine.com/) - AI code completion tool
-- [Kite](https://kite.com/) - AI-powered coding assistant
-
-### Development Frameworks
-- [LangChain](https://github.com/langchain-ai/langchain) - Framework for developing applications with LLMs
-- [LlamaIndex](https://github.com/run-llama/llama_index) - Data framework for LLM applications
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - Microsoft's AI orchestration framework
+- **APPS** (2021-05-20) [[Paper](https://arxiv.org/abs/2105.09938)]
+- **HumanEval** (2021-07-07) [[Paper](https://arxiv.org/abs/2107.03374)]
+- **MBPP** (2021-08-16) [[Paper](https://arxiv.org/abs/2108.07732)]
+- **CodeContests** (2022-02-08)[[Paper](https://arxiv.org/abs/2203.07814)]
+- **Aider** (2023-04-04) [[Link](https://aider.chat/docs/benchmarks.html#the-benchmark)]
+- **SWE-Bench** (2023-10-10)[[Paper](https://arxiv.org/abs/2310.06770)]
+- **CodeAgentBench** (2024-01-14) [[Paper](https://arxiv.org/abs/2401.07339)]
+- **LiveCodeBench** (2024-03-12)[[Paper](https://arxiv.org/abs/2403.07974)]
+- **EvoCodeBench** (2024-03-31) [[Paper](https://arxiv.org/abs/2404.00599)]
+- **DevEval** (2024-05-30) [[Paper](https://arxiv.org/abs/2405.19856)]
 
 
 
+
+
+## 🛠️ Tools 
+
+- **Github Copilot** [[Link](https://github.com/copilot)]
+- **Devin** [[Link](https://devin.ai/)]
+- **Cursor** [[Link](https://cursor.com/)]
+- **Tongyi Lingma** [[Link](https://lingma.aliyun.com/)]
+- **Claude Code** [[Link](https://www.anthropic.com/claude-code)]
 
 
 
