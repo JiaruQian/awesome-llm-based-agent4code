@@ -17,11 +17,6 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 ## 🤖 Single-Agent Methods 
 
-### 2020
-- **GPT-3** (2020-05-28) [[Paper](https://arxiv.org/abs/2005.14165)]
-### 2022
-- **ChatGPT** (2022-11-03) [[Link](https://chatgpt.com/)]
-
 ### 2023
 - **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)]
 - **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)]
@@ -65,9 +60,13 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 - **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] 
 
+- **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
+
 
 - **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] 
 
+
+- **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
 
 ### 2025 (Up to June)
 
@@ -135,11 +134,11 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 - **Self-Evolving Multi-Agent Collaboration Networks for Software Development** (2024-10-22) [[Paper](https://arxiv.org/html/2410.16946v1)] 
 
-- **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
+
 
 - **MAGE: A Multi-Agent Engine for Automated RTL Code Generation** (2024-12-10) [[Paper](https://arxiv.org/abs/2412.07822)] 
 
-- **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
+
 
 
 ### 2025
