@@ -196,6 +196,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to all contributors and researchers in the field
 - Special thanks to the open-source community
 
+
+## 📑 Citation
+```
+@misc{dong2025surveycodegenerationllmbased,
+      title={A Survey on Code Generation with LLM-based Agents}, 
+      author={Yihong Dong and Xue Jiang and Jiaru Qian and Tian Wang and Kechi Zhang and Zhi Jin and Ge Li},
+      year={2025},
+      eprint={2508.00083},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2508.00083}, 
+}
+```
+
 ---
 
 **Note**: This is a living document. Please help us keep it updated by contributing new papers, tools, and resources! 
