@@ -1,6 +1,6 @@
 # Awesome LLM-based Agent for Code Generation
 
-要不加个citation的bib，然后加一个这个图标[![arXiv](https://img.shields.io/badge/arXiv-2508.00083-b31b1b.svg)](https://arxiv.org/abs/2508.00083)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.00083-b31b1b.svg)](https://arxiv.org/abs/2508.00083)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A curated list of awesome LLM-based agents for code generation, including papers, tools, frameworks, and resources.
