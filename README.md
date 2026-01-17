@@ -3,7 +3,10 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2508.00083-b31b1b.svg)](https://arxiv.org/abs/2508.00083)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+🎉 Our work has been accepted to the Journal of Software 2026. 
+
 A curated list of awesome LLM-based agents for code generation, including papers, tools, frameworks, and resources.
+
 
 ## 📋 Table of Contents
 
