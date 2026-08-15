@@ -89,6 +89,10 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 - **cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree** (2025-06-18)[[Paper](https://arxiv.org/abs/2506.15655)]  
 
+### 2026
+
+- **Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models** (2026-07-16) [[Paper](https://arxiv.org/abs/2607.12463)] [[Code](https://github.com/TIGER-AI-Lab/FIM-Midtraining)]
+
 ## 👥 Multi-Agent Methods
 
 ### 2023
